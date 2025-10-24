@@ -41,7 +41,7 @@ Mistakes are expected and documented — that’s part of the process.
 
 🪙 License
 
-This project will be free and open under a permissive ;IT license once the base version compiles and runs.
+This project will be free and open under a permissive MIT license once the base version compiles and runs.
 
 🧑‍💻 Author
 

@@ -1,7 +1,7 @@
 #XBTGPUALL
 
 XBTGPUALL is an experimental OpenCL 3.0 GPU mining project aiming to create a free and open-source miner for the Bitcoin Gold (BTG) network.
-It builds upon ideas from XBTGPUARC and the original Bitcoin Gold kernel math (Zhash_144_5), reworked for Intel ARC and modern GPU architectures.
+It builds up on ideas from XBTGPUARC and the original Bitcoin Gold kernel math (Zhash_144_5), reworked for Intel ARC and modern GPU architectures.
 
 🧩 Project State
 
@@ -25,7 +25,7 @@ Encourage others to learn, modify, and contribute
 📚 About the Code
 
 Most comments and notes are bilingual (English + German) for better understanding during the learning process.
-Some parts of the code were generated with AI assistance — all logic is being reviewed, tested, and refined manually over time.
+The most parts of the code were generated with AI assistance — all logic is being reviewed, tested, and refined manually over time by my person and hardware.
 
 🧠 Learning Project
 
